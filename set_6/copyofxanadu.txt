@@ -1,0 +1,6 @@
+Hello This is File to Test Total Number of (Specific Character) present in this file using Command line Argument
+
+Total Number of 'e' = 14
+Total Number of 'a' = 7
+
+23DCS144
